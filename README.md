@@ -1,0 +1,2 @@
+# eco-apps-forest-dynamics-east-cascades
+The files in this folder include the error-adjusted area estimates of seven structural classes for five strata, as well as the annual area burned for each class at different levels of fire severity. Files with “_entire_” include the error-adjusted area estimates of each class for the complete extent of each strata, while files with “_unburned_” include the error-adjusted area estimates of each class for only the portion of each strata that was unburned during the study period. All area estimates are in hectares.
